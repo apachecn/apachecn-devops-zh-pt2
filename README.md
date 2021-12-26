@@ -36,7 +36,7 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 团结、勇气和绝不动摇的忠诚是人类最大的优点。——《动物园规则怪谈》
+> 黑色的眼睛不再表达真实，每个人的行为都在有所掩饰。可以原谅无知，但请别讲故事，没完没了的欺骗我会真去失去控制。——阴三儿《黑》
 
 * [在线阅读](https://{domain}.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
