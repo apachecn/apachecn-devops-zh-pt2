@@ -1,4 +1,4 @@
-# 第 4 部分:使用 Ansible 部署应用程序
+# 第四部分：使用 Ansible 部署应用
 
 本节介绍如何从 Ansible 管理 Windows 节点，以及如何利用 Ansible Galaxy 和 Ansible Tower 最大限度地提高您的工作效率。
 
