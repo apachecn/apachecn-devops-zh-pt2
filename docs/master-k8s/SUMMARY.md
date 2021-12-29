@@ -1,3 +1,4 @@
++   [精通 Kubernetes](README.md)
 +   [零、前言](00.md)
 +   [一、理解 Kubernetes 架构](01.md)
 +   [二、创建 Kubernetes 集群](02.md)
@@ -15,4 +16,3 @@
 +   [十四、利用服务网格](14.md)
 +   [十五、扩展 Kubernetes](15.md)
 +   [十六、Kubernetes 的未来](16.md)
-+   [精通 Kubernetes](README.md)

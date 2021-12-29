@@ -1,3 +1,4 @@
++   [Kubernetes DevOps 完全秘籍](README.md)
 +   [零、前言](00.md)
 +   [一、构建生产就绪型 Kubernetes 集群](01.md)
 +   [二、Kubernetes 上的操作应用](02.md)
@@ -9,4 +10,3 @@
 +   [八、Kubernetes 的可观测性和监控](08.md)
 +   [九、保护应用和集群](09.md)
 +   [十、使用 Kubernetes 登录](10.md)
-+   [Kubernetes DevOps 完全秘籍](README.md)

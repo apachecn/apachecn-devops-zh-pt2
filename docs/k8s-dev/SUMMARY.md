@@ -1,3 +1,4 @@
++   [Kubernetes 开发指南](README.md)
 +   [零、前言](00.md)
 +   [一、为开发构配置 Kubernetes](01.md)
 +   [二、打包您的代码来在 Kubernetes 中运行](02.md)
@@ -9,4 +10,3 @@
 +   [八、日志记录和跟踪](08.md)
 +   [九、集成测试](09.md)
 +   [十、常见问题的故障排除和后续步骤](10.md)
-+   [Kubernetes 开发指南](README.md)

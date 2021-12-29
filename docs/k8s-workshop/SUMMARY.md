@@ -1,3 +1,4 @@
++   [Kubernetes 研讨会](README.md)
 +   [零、前言](00.md)
 +   [一、Kubernetes 和容器简介](01.md)
 +   [二、Kubernetes 概述](02.md)
@@ -18,4 +19,3 @@
 +   [十七、Kubernetes 的高级调度](17.md)
 +   [十八、无停机升级您的集群](18.md)
 +   [十九、Kubernetes 中的自定义资源定义](19.md)
-+   [Kubernetes 研讨会](README.md)
