@@ -6,4 +6,4 @@
 
 *   [*第四章*](04.html#_idTextAnchor044)*了解Skaffold的特色和架构*
 *   [*第五章*](05.html#_idTextAnchor052)*安装脚手架并揭开其管道阶段的神秘面纱*
-*   [*第 6 章*](06.html#_idTextAnchor074)*与 Skaffold 容器图像构建器和部署器合作*
+*   [*第 6 章*](06.html#_idTextAnchor074)*与 Skaffold 容器映像构建器和部署器合作*
