@@ -6,4 +6,4 @@
 
 *   [第 4 章](04.html)、*Kubernetes概念和 Windows 支持*
 *   [第五章](05.html)*Kubernetes网络*
-*   [第六章](06.html)*与Kubernetes星团*互动
+*   [第六章](06.html)*与Kubernetes集群*互动
