@@ -30,6 +30,16 @@
 +   [网络自动化秘籍](docs/net-auto-cb/SUMMARY.md)
 +   [Ansible 2 OpenStack 管理手册](docs/openstack-admin-ansible2/SUMMARY.md)
 +   [Ansible 2 实战](docs/prac-ansible2/SUMMARY.md)
++   [Ansible 配置管理手册](docs/ansible-conf-mgt/SUMMARY.md)
++   [Ansible 快速启动指南](docs/ansible-quick-start-guide/SUMMARY.md)
++   [Jenkins 扩展指南](docs/extend-jenkins/SUMMARY.md)
++   [JIRA 测试管理实用手册](docs/handson-test-mgt-jira/SUMMARY.md)
++   [持续集成和交付实用手册](docs/handson-ci-cd/SUMMARY.md)
++   [Jenkins 持续集成秘籍](docs/jenkins-ci-cb/SUMMARY.md)
++   [Jenkins 基础知识](docs/jenkins-essense/SUMMARY.md)
++   [Ansible 2.7 学习手册](docs/learn-ansible-27/SUMMARY.md)
++   [Jenkins 持续集成学习手册](docs/learn-ci-jenkins/SUMMARY.md)
++   [Ansible2 安全自动化指南](docs/sec-auto-ansible2/SUMMARY.md)
 
 ## 贡献指南
 
