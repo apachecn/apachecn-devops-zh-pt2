@@ -4,5 +4,5 @@
 
 本节包含以下章节:
 
-*   [第 7 章](07.html)、*部署混合内部Kubernetes集群*
+*   [第 7 章](07.html)、*部署混合内部 Kubernetes 集群*
 *   [第 8 章](08.html)、*部署混合 Azure Kubernetes 服务引擎集群*
