@@ -20,6 +20,16 @@
 +   [Kubernetes 研讨会](docs/k8s-workshop/SUMMARY.md)
 +   [精通 Kubernetes](docs/master-k8s/SUMMARY.md)
 +   [Kubernetes 无服务器架构](docs/svrless-arch-k8s/SUMMARY.md)
++   [Ansible 行动手册基础知识](docs/andible-playbook-essense/SUMMARY.md)
++   [Skaffold：毫不费力的云原生应用开发指南](docs/effless-cloud-native-app-dev-skaffold/SUMMARY.md)
++   [Ansible 扩展手册](docs/extend-ansible/SUMMARY.md)
++   [Kubernetes AWS 手册](docs/k8s-aws/SUMMARY.md)
++   [Kubernetes 无服务器应用手册](docs/k8s-svrless-app/SUMMARY.md)
++   [Ansible 学习手册](docs/learn-ansible/SUMMARY.md)
++   [精通 Ansible 中文第四版](docs/master-ansible-4e/SUMMARY.md)
++   [网络自动化秘籍](docs/net-auto-cb/SUMMARY.md)
++   [Ansible 2 OpenStack 管理手册](docs/openstack-admin-ansible2/SUMMARY.md)
++   [Ansible 2 实战](docs/prac-ansible2/SUMMARY.md)
 
 ## 贡献指南
 
